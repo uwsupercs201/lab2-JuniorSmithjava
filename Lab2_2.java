@@ -54,7 +54,7 @@ public class Lab2_2
             strWeeks = " week, ";
         }
 
-        // really long concatinations of strings and/or values that prints the intended result
+        // really long concatinations of strings and values that prints the intended result
         System.out.println("\n" + seconds + strSeconds + weeks + strWeeks + days + strDays + hours + strHours + minutes + strMinutes + seconds2 + strSeconds2);
 
 
